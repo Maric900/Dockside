@@ -112,6 +112,45 @@
                         </p>
                     </a>
                 </li>
+                <li class="nav-item ">
+
+                    <a class="nav-link" asp-controller="Rooms" asp-action="Index" >                    
+                        <i class="nav-icon fas fa-chalkboard-user">
+                            <img src="~/img/chalkboard-teacher-solid.svg" />
+                        </i>
+                        <p>
+                            Room
+                        </p>
+                    </a>
+                </li>
+                <li class="nav-item ">
+                <li class="nav-item ">
+
+                    <a asp-controller="Home" asp-action="Index" class="nav-link @Url.Action("home","index")">
+                        <i class="nav-icon fas fa-chalkboard-user"><img src="~/img/bookmark-solid.svg"/></i>
+                        <p>
+                            Bookning
+                        </p>
+                    </a>
+                </li>
+                <li class="nav-item ">
+
+                    <a asp-controller="Home" asp-action="Index" class="nav-link @Url.Action("home","index")">
+                        <i class="nav-icon fas fa-circle-info"><img class="pace-progress-color-white" src="~/img/info-circle-solid.svg"/></i>
+                        <p>
+                            Info
+                        </p>
+                    </a>
+                </li>
+                <li class="nav-item ">
+
+                    <a asp-controller="Home" asp-action="Index" class="nav-link @Url.Action("home","index")">
+                        <i class="nav-icon fas fa-message"><img class="colorpicker" src="~/img/comment-alt-solid.svg" /></i>
+                        <p>
+                        Help
+                        </p>
+                    </a>
+                </li>
                 @*<li class="nav-item ">
             <a asp-controller="Home" asp-action="Privacy" class="nav-link @Url.Action("home","privacy")">
                 <i class="nav-icon fas fa-lock"></i>

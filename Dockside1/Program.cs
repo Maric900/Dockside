@@ -22,5 +22,6 @@ namespace Dockside1
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
     }
 }

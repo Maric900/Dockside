@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
+using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -8,10 +10,8 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace Dockside1.Controllers
 {
-    public class RoomsController : Controller
+    public class HelpController : Controller
     {
-        // 
-        // GET: /HelloWorld/
         [AllowAnonymous]
         public IActionResult Index()
         {

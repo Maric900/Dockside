@@ -899,3 +899,7 @@ C:\Users\46765\Documents\Jäfu- Sime dokument (praktik)\Dockside1\Dockside1\obj\
 C:\Users\46765\Documents\Jäfu- Sime dokument (praktik)\Dockside1\Dockside1\obj\Debug\net5.0\Dockside1.genruntimeconfig.cache
 C:\Users\46765\Documents\Jäfu- Sime dokument (praktik)\Dockside1\Dockside1\obj\Debug\net5.0\Dockside1.csproj.CopyComplete
 C:\Users\46765\Documents\Jäfu- Sime dokument (praktik)\Dockside1\Dockside1\obj\Debug\net5.0\Razor\Views\Rooms\Index.cshtml.g.cs
+C:\Users\46765\Documents\Jäfu- Sime dokument (praktik)\Dockside1\Dockside1\obj\Debug\net5.0\Razor\Views\Help\Index.cshtml.g.cs
+C:\Users\46765\Documents\Jäfu- Sime dokument (praktik)\Dockside1\Dockside1\obj\Debug\net5.0\Razor\Views\Home\Help.cshtml.g.cs
+C:\Users\46765\Documents\Jäfu- Sime dokument (praktik)\Dockside1\Dockside1\obj\Debug\net5.0\Razor\Views\Bookning\Index.cshtml.g.cs
+C:\Users\46765\Documents\Jäfu- Sime dokument (praktik)\Dockside1\Dockside1\obj\Debug\net5.0\Razor\Views\Info\Index.cshtml.g.cs
